@@ -8,11 +8,7 @@ import javax.persistence.Id;
 
 /* this is another comment i'm deleting the one that says "i'm a comment" */
 /* deleting the bruh comment*/
-/* new comment */
-// siri  new comment 
-// siri again
 
-//hi hi hi
 
 @Entity
 class Employee {
