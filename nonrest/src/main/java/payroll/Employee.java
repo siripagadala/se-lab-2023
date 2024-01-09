@@ -1,6 +1,7 @@
 package payroll;
 
 import java.util.Objects;
+//classs
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
