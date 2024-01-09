@@ -3,6 +3,8 @@ package payroll;
 import java.util.Objects;
 //classs
 
+//CLASS EVALUATION AFRA COMMIT
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
